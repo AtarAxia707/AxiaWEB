@@ -1,10 +1,16 @@
 {
   "name": "axia_web",
   "version": "1.0.0",
+  "homepage": "https://ataraxia707.github.io/axiaWEB",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
