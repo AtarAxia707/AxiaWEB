@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/axiaWEB/static/js/main.c4fdb258.js",
-    "index.html": "/axiaWEB/index.html",
-    "main.c4fdb258.js.map": "/axiaWEB/static/js/main.c4fdb258.js.map"
+    "main.js": "/webAxia/static/js/main.1c645faa.js",
+    "index.html": "/webAxia/index.html",
+    "main.1c645faa.js.map": "/webAxia/static/js/main.1c645faa.js.map"
   },
   "entrypoints": [
-    "static/js/main.c4fdb258.js"
+    "static/js/main.1c645faa.js"
   ]
 }
